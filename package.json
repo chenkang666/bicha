@@ -1,7 +1,7 @@
 {
   "name": "bicha",
   "version": "1.0.0",
-  "description": "自己开发\u001b[D\u001b[个人开发\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[个人开发的UI",
+  "description": "个人开发的UI",
   "main": "dist/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
